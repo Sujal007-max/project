@@ -2,8 +2,8 @@
 
 > **Cybersecurity Internship Project — Option 1**  
 > Conducted by: Junior Security Analyst  
-> Organization: TechSoft Solutions Pvt. Ltd. *(Hypothetical — for academic purposes only)*  
-> Date: June 26, 2026
+> Organization: Axonbloom Solutions  *(Hypothetical — for academic purposes only)*  
+> Date: June 28, 2026
 
 ---
 
@@ -28,15 +28,15 @@ network-security-assessment/
 │   └── 📝 Network_Security_Assessment_Report.docx   ← Main deliverable
 │
 ├── 📂 docs/
-│   ├── 📄 methodology.md                 ← Assessment methodology details
-│   ├── 📄 risk-matrix.md                 ← Risk rating framework
+│   ├── 📄 methodology.MD                 ← Assessment methodology details
+│   ├── 📄 risk-matrix.MD                 ← Risk rating framework
 │   └── 📄 network-topology.md            ← Hypothetical network diagram (text)
 │
 ├── 📂 assets/
-│   └── 📄 vulnerability-summary.md       ← Quick reference of all findings
+│   └── 📄 vulnerability-summary.MD       ← Quick reference of all findings
 │
 └── 📂 scripts/
-    └── 📄 checklist.md                   ← Security hardening checklist
+    └── 📄 checklist.MD                   ← Security hardening checklist
 ```
 
 ---
